@@ -5,6 +5,7 @@ body, html
     margin:0;
     padding:0;
     background-color: black;
+    scroll-behavior: smooth;
 }
 
 /**
@@ -325,12 +326,13 @@ footer
     position: relative;
     border: none;
     transform: rotate(90deg);
+    display: inline-block;
 }
 
 .circle:before 
 {
     content: '';
-    display: block;
+    display: inline-block;
     border-top: solid 10px transparent;
     border-left: solid 10px #FFF;
     border-bottom: solid 10px transparent;
