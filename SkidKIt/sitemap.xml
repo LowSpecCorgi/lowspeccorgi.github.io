@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://basil.is-a.dev/skid_kit/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://basil.is-a.dev/InterfaceComponent/box_model/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://basil.is-a.dev/InterfaceComponent/interface_component/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://basil.is-a.dev/InterfaceComponent/layouts/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://basil.is-a.dev/InterfaceComponent/stylesheets/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://basil.is-a.dev/InterfaceComponent/surfaces_and_elements/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
