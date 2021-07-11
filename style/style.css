@@ -49,7 +49,7 @@ body, html
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 3vh 4vh;
     text-decoration: none;
 
     font-family: 'Jost', sans-serif;
@@ -229,7 +229,6 @@ body, html
     padding-right: 70px;
     padding-top: 10px;
     padding-bottom: 10px;
-
     font-family: 'Jost', sans-serif;
     color: white;
 }
@@ -340,4 +339,122 @@ footer
     top: 50%;
     left: 50%;
     margin: -10px 0 0 -3px;
+}
+
+
+
+
+
+
+
+
+/**
+ * project-list H3 Text to be placed above hero image
+ * @author Basilicous
+*/
+.social-list h3
+{
+    font-size: 64px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    top: 20%;
+}
+
+/**
+ * project-list H4 Text to be placed above hero image
+ * @author Basilicous
+*/
+.social-list h4
+{ 
+    font-size: 48px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    top: 20%;
+}
+
+/**
+ * LI to be placed above hero image
+ * @author Basilicous
+*/
+.social-list
+{
+    background-color: rgba(0, 0, 0, 0.445);
+    border-radius: 5px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 1x;
+    padding-bottom: 1px;
+    font-family: 'Jost', sans-serif;
+    color: white;
+}
+
+/**
+ * BUTTON to be placed above hero image
+ * @author Basilicous
+*/
+.social-list .button
+{
+    
+    background-color: rgb(0, 223, 186);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Jost', sans-serif;
+
+    transition: background-color 0.25s ease-out 100ms
+}
+
+/**
+ * BUTTON A to be placed above hero image
+ * @author Basilicous
+*/
+.social-list .button a
+{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+
+/**
+ * BUTTON to be placed above hero image
+ * @author Basilicous
+*/
+.social-list .button:hover
+{
+    background-color: rgb(123, 206, 192);
+}
+
+
+/**
+ * LI to be placed above hero image
+ * @author Basilicous
+*/
+.social-list ul
+{
+    list-style-type: none;
+}
+
+/**
+ * LI to be placed above hero image
+ * @author Basilicous
+*/
+.social-list li
+{
+    background-color: rgba(19, 19, 19, 0.445);
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    border-left: rgb(0, 223, 186) solid 2px;
 }
